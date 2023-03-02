@@ -6,7 +6,7 @@
 3. git reset: revierte todo lo que hace "git add ."
 4. git commit -m "coment": confirmacion del archivo.
 5. git chekout -- .: reconstruye archivos a como se encontraban en el ultimo commit incluso si los borro.
-6. git log: listado de los commit.
+6. git log: muestra el listado de los commit.
 7. git commit --amend: arregla/edita el ultimo commit.
 8.  q: sale del --amend.
 9.  i: inserta nuevo texto para poder editar el ultimo commit. Se corrobora con "git log"
@@ -20,4 +20,5 @@
 
 1. git config user.name "PabloRojas"
 2. git config user.email "p_e_rojas@hotmail.com"
+2. git status: indica a git que identifique el estado del directorio.
 
