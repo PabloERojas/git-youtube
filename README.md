@@ -14,5 +14,10 @@
 11. git chekout -b rama-xxx: crea una nueva rama
 12. git branch: muestra las distintas ramas.
 13. git commit -am "coment": combina el add . + commit -m, cuando git ya esta haciendole seguimiento al archivo.
-14. git push: despliega el archivo a GitHub.
+14. git push: despliega el archivo a GitHub. 
+
+# Identificacion para Git en la consola:
+
+1. git config user.name "PabloRojas"
+2. git config user.email "p_e_rojas@hotmail.com"
 
