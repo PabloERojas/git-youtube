@@ -19,7 +19,7 @@
 
 # Identificacion para Git en la consola:
 
-1. git config user.name "PabloRojas"
+1. git config user.name "PabloRojas".
 2. git config user.email "p_e_rojas@hotmail.com"
 2. git status: indica a git que identifique el estado del directorio.
 
