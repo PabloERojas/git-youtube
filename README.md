@@ -23,3 +23,4 @@
 2. git config user.email "p_e_rojas@hotmail.com"
 2. git status: indica a git que identifique el estado del directorio en tiempo real.
 
+BIBLIOGRAFIA: Comandos de Git que debes de saber de Fernando Herrera (Youtube)
