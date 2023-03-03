@@ -8,9 +8,9 @@
 5. git chekout -- .: reconstruye archivos a como se encontraban en el ultimo commit incluso si los borro.
 6. git log: muestra el listado de los commit.
 7. git commit --amend: arregla/edita el ultimo commit.
-8. git diff + "nombre del archivo": muestra la ultima modificacion que se hizo en el archivo antes del commit.
+8. i: inserta nuevo texto para poder editar el ultimo commit. Se corrobora con "git log"
 9.   q: sale del --amend.
-10.  i: inserta nuevo texto para poder editar el ultimo commit. Se corrobora con "git log"
+10. git diff + "nombre del archivo": muestra la ultima modificacion que se hizo en el archivo antes del commit.
 11. salir del commit editado: Esc+:+w+q+! (:wq!)
 12. git chekout -b rama-xxx: crea una nueva rama
 13. git branch: muestra las distintas ramas.
