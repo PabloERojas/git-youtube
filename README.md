@@ -16,14 +16,6 @@
 13. git branch: muestra las distintas ramas.
 14. git commit -am "coment": combina el add . + commit -m, cuando git ya esta haciendole seguimiento al archivo.
 15. git push: despliega el archivo a GitHub.
-8. i: inserta nuevo texto para poder editar el ultimo commit. Se corrobora con "git log"
-9.   q: sale del --amend.
-10. git diff + "nombre del archivo": muestra la ultima modificacion que se hizo en el archivo antes del commit.
-11. salir del commit editado: Esc+:+w+q+! (:wq!)
-12. git chekout -b rama-xxx: crea una nueva rama
-13. git branch: muestra las distintas ramas.
-14. git commit -am "coment": combina el add . + commit -m, cuando git ya esta haciendole seguimiento al archivo.
-15. git push: despliega el archivo a GitHub.
 
 # Identificacion para Git en la consola:
 
